@@ -1,18 +1,18 @@
 Olist E-Commerce Analysis
 
-Why Are Customers Unhappy — and Why Don't They Come Back?
+Why Are Customers Unhappy - and Why Don't They Come Back?
 
 A data analysis case study investigating customer dissatisfaction and low retention on Olist, a real Brazilian e-commerce marketplace.
 
 
 Tools Used:
-BigQuery SQL — data cleaning and analysis
-Tableau Public — dashboard and visualizations
-Google Sheets — data exports and summaries
+BigQuery SQL - data cleaning and analysis
+Tableau Public - dashboard and visualizations
+Google Sheets - data exports and summaries
 
 Dataset
-Source: Kaggle — Brazilian E-Commerce Public Dataset by Olist
-Period: September 2016 – October 2018
+Source: Kaggle - Brazilian E-Commerce Public Dataset by Olist
+Period: September 2016 - October 2018
 Size: 100,000+ orders across 6 relational tables
 
 Business Problem:
