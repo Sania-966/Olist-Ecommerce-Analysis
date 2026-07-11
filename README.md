@@ -20,9 +20,13 @@ Olist is experiencing low customer retention. This project investigates the root
 
 Business Questions:
 What drives low review scores?
+
 Which product categories receive the most negative reviews?
+
 What percentage of customers place a second order?
+
 Do customers with poor experiences return less often?
+
 What is the estimated revenue lost due to poor customer experience?
 
 Key Findings:
